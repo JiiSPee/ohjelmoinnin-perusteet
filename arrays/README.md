@@ -1,2 +1,1 @@
 # ohjelmoinnin-perusteet
-arrays
