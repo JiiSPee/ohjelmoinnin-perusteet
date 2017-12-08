@@ -25,7 +25,6 @@ namespace Taulukko_2
                 }
             }
             int e = q.Next(1, 40);
-            Array.Sort(array);
             Console.WriteLine("Loton oikearivi on:");
             Console.WriteLine($"{array[0]}, {array[1]}, {array[2]}, {array[3]}, {array[4]}, {array[5]}, {array[6]}");
             Console.WriteLine($"Lisänumerot: {array[7]} ja {array[8]}");

@@ -11,6 +11,7 @@ namespace Tehtävä2._1
         static void Main(string[] args)
         {
             string data;
+			Console.WriteLine("Kirjoita jotain ja ohjelma laskee vokaalit");
             data = Console.ReadLine();
             string data2;
             //data2 = data.ToLower();
